@@ -1,0 +1,36 @@
+{
+    "eslint": {
+        "rules": {
+            "fecs-esnext-ext": [
+                "2",
+                [
+                    "js",
+                    "san"
+                ]
+            ],
+            "fecs-properties-quote": [
+                "0"
+            ],
+            "fecs-valid-class-jsdoc": [
+                "0"
+            ],
+            "fecs-valid-jsdoc": [
+                "0"
+            ],
+            "no-useless-constructor": [
+                "0"
+            ],
+            "fecs-camelcase": [
+                "1"
+            ],
+            "fecs-no-require": [
+                "0"
+            ]
+        }
+    },
+    "csshint": {},
+    "htmlcs": {},
+    "jformatter": {},
+    "esformatter": {},
+    "csscomb": {}
+}

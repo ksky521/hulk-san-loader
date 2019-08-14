@@ -3,3 +3,5 @@ __mocks__
 .vscode
 yarn-error.log
 yarn.lock
+.fecsrc
+.prettierrc

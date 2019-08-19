@@ -49,7 +49,7 @@ jspm_packages/
 
 # Typescript v1 declaration files
 typings/
-
+yarn.lock
 # Optional npm cache directory
 .npm
 
